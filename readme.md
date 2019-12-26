@@ -1,4 +1,4 @@
 ## todo
-make url shortener
-add personal logging
-add auth
+  * make url shortener
+  * add personal logging
+  * add auth
