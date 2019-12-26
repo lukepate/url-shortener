@@ -1,0 +1,21 @@
+{
+  "name": "bitly-clone",
+  "version": "1.0.0",
+  "description": "# make url shortener # add personal logging # add auth",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "joi": "^13.3.0",
+    "monk": "^6.0.6",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.4"
+  },
+  "devDependencies": {}
+}
